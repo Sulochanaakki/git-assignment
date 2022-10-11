@@ -4,7 +4,7 @@
 echo "# git-assignment" >> README.md
 ## initalizing new repo
 git init
-# adding file to repo
+## adding file to repo
 git add README.md
 ## commiting changes
 git commit -m "first commit"
